@@ -6,7 +6,7 @@ let md = '[**Showdown**](http://www.showdownjs.com) is *great*\n' +
 ' - works in the server and in the browser'
 
 let reny = '[**renny**](http://www.google.com) is a *great* website\n'+
-'because we can sreach up a lot of items\n'+
+'because we can search up a lot of items\n'+
 ' - football\n '+
 ' - soccer\n' +
 ' - basketball'
